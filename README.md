@@ -49,7 +49,6 @@ Notas y solución de problemas
 -----------------------------
 - Si el juego no arranca, verifica la versión de Python con `python --version` y que pygame esté instalado (`pip show pygame`).
 - Si ves errores relacionados con rutas a imágenes, confirma que la carpeta `imagenes/` está en el mismo directorio que `videojuego.py`.
-- En Windows PowerShell, si tienes problemas con la activación del entorno virtual, puedes ejecutar `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser` como administrador o usar el entorno sin activar (aunque no es lo ideal).
 
 Créditos
 -------
